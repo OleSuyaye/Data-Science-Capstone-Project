@@ -1,0 +1,101 @@
+transaction_id,date,customer_id,store,category,quantity,unit_price_kes,promotion,payment_method,revenue_kes
+TX083,2025-01-04,C017,Nairobi,Dairy & Eggs,2,328.58,False,Cash,657.16
+TX062,2025-01-05,C011,Nakuru,Staples,1,237.02,False,Cash,237.02
+TX030,2025-01-12,C005,Nyali,Staples,2,271.45,True,M-Pesa,488.61
+TX005,2025-01-16,C033,Nakuru,Fresh Produce,3,161.33,False,M-Pesa,483.99
+TX048,2025-01-23,C005,Thika,Fresh Produce,3,187.54,True,M-Pesa,506.36
+TX080,2025-01-25,C026,Nairobi,Fresh Produce,5,162.34,False,Cash,811.7
+TX085,2025-01-30,C017,Nairobi,Fresh Produce,2,193.79,False,M-Pesa,387.58
+TX087,2025-01-31,C030,Thika,Fresh Produce,1,166.16,False,Cash,166.16
+TX028,2025-02-03,C027,Nakuru,Fresh Produce,5,206.59,False,Card,1032.95
+TX061,2025-02-14,C020,Thika,Dairy & Eggs,1,369.53,False,Cash,369.53
+TX032,2025-03-05,C009,Nairobi,Fresh Produce,2,160.77,True,Cash,289.39
+TX091,2025-03-06,C010,Nakuru,Dairy & Eggs,2,342.6,True,M-Pesa,616.68
+TX069,2025-03-12,C019,Thika,Dairy & Eggs,1,335.24,False,M-Pesa,335.24
+TX086,2025-03-12,C011,Thika,Personal Care,3,362.63,True,M-Pesa,979.1
+TX044,2025-03-25,C009,Thika,Staples,3,217.07,True,M-Pesa,586.09
+TX046,2025-03-29,C035,Nyali,Staples,5,264.74,False,Cash,1323.7
+TX022,2025-04-11,C018,Thika,Fresh Produce,3,195.27,True,Card,527.23
+TX027,2025-04-17,C035,Nairobi,Personal Care,4,421.9,True,M-Pesa,1518.84
+TX024,2025-04-21,C020,Nairobi,Beverages,3,167.83,True,Cash,453.14
+TX026,2025-04-24,C030,Nyali,Staples,1,243.95,False,M-Pesa,243.95
+TX058,2025-04-25,C006,Nairobi,Staples,2,230.22,False,Card,460.44
+TX029,2025-04-26,C015,Nairobi,Fresh Produce,3,194.69,False,Cash,584.07
+TX049,2025-05-15,C016,Nyali,Staples,2,230.38,False,M-Pesa,460.76
+TX081,2025-05-16,C024,Nairobi,Beverages,3,134.41,False,Card,403.23
+TX045,2025-05-17,C004,Nairobi,Staples,1,241.71,True,Card,217.54
+TX039,2025-05-17,C034,Thika,Fresh Produce,1,176.0,False,M-Pesa,176.0
+TX059,2025-05-20,C034,Nyali,Fresh Produce,4,192.4,False,M-Pesa,769.6
+TX074,2025-05-27,C023,Thika,Fresh Produce,1,176.11,False,M-Pesa,176.11
+TX097,2025-05-31,C008,Nyali,Personal Care,2,457.0,True,Card,822.6
+TX092,2025-06-01,C010,Nyali,Fresh Produce,1,185.32,True,Cash,166.79
+TX057,2025-06-02,C026,Nakuru,Dairy & Eggs,4,389.63,False,Cash,1558.52
+TX019,2025-06-07,C004,Nairobi,Dairy & Eggs,4,373.75,False,M-Pesa,1495.0
+TX007,2025-06-09,C004,Nyali,Dairy & Eggs,5,395.93,False,Cash,1979.65
+TX001,2025-06-10,C008,Nakuru,Beverages,4,166.14,False,Cash,664.56
+TX003,2025-06-11,C032,Nyali,Beverages,3,137.73,False,Cash,413.19
+TX004,2025-06-12,C032,Nyali,Beverages,1,143.45,False,M-Pesa,143.45
+TX015,2025-06-12,C024,Nairobi,Dairy & Eggs,3,347.15,False,M-Pesa,1041.45
+TX070,2025-06-17,C025,Nairobi,Dairy & Eggs,5,310.57,False,M-Pesa,1552.85
+TX006,2025-06-18,C005,Thika,Fresh Produce,4,178.36,True,M-Pesa,642.1
+TX023,2025-06-22,C020,Thika,Dairy & Eggs,3,334.83,False,M-Pesa,1004.49
+TX079,2025-06-30,C031,Nairobi,Beverages,2,132.71,True,M-Pesa,238.88
+TX016,2025-06-30,C025,Nairobi,Staples,4,273.26,False,Card,1093.04
+TX002,2025-07-02,C013,Nakuru,Beverages,1,133.27,False,Cash,133.27
+TX033,2025-07-04,C015,Nyali,Staples,2,253.99,False,Cash,507.98
+TX094,2025-07-05,C026,Thika,Beverages,5,166.51,True,M-Pesa,749.29
+TX073,2025-07-05,C005,Nairobi,Staples,3,233.09,False,M-Pesa,699.27
+TX090,2025-07-08,C004,Nairobi,Fresh Produce,5,179.94,False,Card,899.7
+TX072,2025-07-16,C025,Thika,Personal Care,4,394.97,False,Card,1579.88
+TX076,2025-07-19,C023,Nyali,Dairy & Eggs,3,367.1,False,M-Pesa,1101.3
+TX018,2025-07-19,C007,Nakuru,Staples,1,226.03,False,Cash,226.03
+TX068,2025-07-20,C023,Nakuru,Staples,5,240.33,False,M-Pesa,1201.65
+TX077,2025-07-20,C019,Thika,Beverages,2,146.91,False,Cash,293.82
+TX011,2025-07-24,C013,Nairobi,Dairy & Eggs,1,338.83,True,M-Pesa,304.95
+TX055,2025-07-26,C024,Nyali,Staples,1,245.21,False,Cash,245.21
+TX034,2025-07-27,C033,Nairobi,Dairy & Eggs,1,320.15,True,M-Pesa,288.13
+TX075,2025-08-03,C011,Thika,Staples,5,226.83,True,M-Pesa,1020.74
+TX031,2025-08-07,C010,Nyali,Staples,2,266.97,True,Card,480.55
+TX093,2025-08-15,C023,Nyali,Personal Care,5,417.17,False,Card,2085.85
+TX008,2025-08-21,C005,Nairobi,Fresh Produce,2,168.57,False,M-Pesa,337.14
+TX025,2025-08-29,C012,Nakuru,Staples,2,256.34,False,M-Pesa,512.68
+TX035,2025-08-30,C034,Nairobi,Fresh Produce,3,204.6,False,M-Pesa,613.8
+TX020,2025-08-30,C006,Nairobi,Staples,4,239.57,False,M-Pesa,958.28
+TX009,2025-08-31,C020,Thika,Beverages,4,159.23,False,M-Pesa,636.92
+TX043,2025-09-06,C035,Nakuru,Dairy & Eggs,3,348.51,False,Cash,1045.53
+TX064,2025-09-06,C032,Nairobi,Dairy & Eggs,5,376.21,True,M-Pesa,1692.94
+TX042,2025-09-16,C002,Nairobi,Staples,5,212.32,True,M-Pesa,955.44
+TX014,2025-09-19,C006,Thika,Staples,5,256.01,False,M-Pesa,1280.05
+TX017,2025-09-19,C003,Nakuru,Beverages,2,147.72,True,M-Pesa,265.9
+TX054,2025-09-21,C021,Nairobi,Beverages,5,170.07,True,M-Pesa,765.31
+TX078,2025-09-25,C019,Nyali,Beverages,2,168.95,False,M-Pesa,337.9
+TX088,2025-09-29,C019,Nairobi,Beverages,4,130.11,False,Cash,520.44
+TX036,2025-10-01,C015,Nakuru,Dairy & Eggs,5,317.44,True,M-Pesa,1428.48
+TX038,2025-10-07,C022,Nakuru,Beverages,1,137.97,False,M-Pesa,137.97
+TX089,2025-10-08,C016,Thika,Fresh Produce,3,199.01,False,Cash,597.03
+TX082,2025-10-09,C025,Nyali,Personal Care,1,454.29,False,M-Pesa,454.29
+TX050,2025-10-09,C012,Thika,Personal Care,2,472.46,False,Cash,944.92
+TX099,2025-10-10,C014,Nairobi,Dairy & Eggs,4,399.47,False,M-Pesa,1597.88
+TX065,2025-10-11,C011,Nairobi,Staples,5,218.27,False,M-Pesa,1091.35
+TX047,2025-10-12,C012,Nakuru,Dairy & Eggs,4,320.53,False,M-Pesa,1282.12
+TX013,2025-10-14,C015,Nairobi,Dairy & Eggs,3,377.75,False,M-Pesa,1133.25
+TX084,2025-10-20,C035,Nairobi,Personal Care,1,427.05,False,M-Pesa,427.05
+TX051,2025-10-21,C003,Nyali,Dairy & Eggs,2,363.53,False,M-Pesa,727.06
+TX037,2025-10-21,C030,Nairobi,Personal Care,4,415.89,False,Cash,1663.56
+TX041,2025-10-29,C033,Nairobi,Staples,1,226.34,True,M-Pesa,203.71
+TX060,2025-11-05,C034,Nairobi,Fresh Produce,5,206.28,False,Cash,1031.4
+TX056,2025-11-05,C005,Nairobi,Fresh Produce,3,185.38,False,M-Pesa,556.14
+TX010,2025-11-09,C020,Nyali,Staples,3,252.13,False,Cash,756.39
+TX012,2025-11-09,C010,Nairobi,Beverages,3,138.03,True,Cash,372.68
+TX021,2025-12-04,C022,Nairobi,Staples,2,245.84,False,Card,491.68
+TX067,2025-12-05,C029,Nairobi,Beverages,5,162.24,False,M-Pesa,811.2
+TX053,2025-12-08,C006,Thika,Staples,3,213.89,False,Cash,641.67
+TX052,2025-12-14,C022,Nairobi,Dairy & Eggs,2,398.96,True,Cash,718.13
+TX098,2025-12-14,C002,Nairobi,Beverages,3,129.16,False,Cash,387.48
+TX100,2025-12-14,C019,Nyali,Dairy & Eggs,5,398.68,True,M-Pesa,1794.06
+TX040,2025-12-17,C004,Nairobi,Staples,5,257.71,False,M-Pesa,1288.55
+TX096,2025-12-18,C018,Nakuru,Staples,4,206.95,False,M-Pesa,827.8
+TX066,2025-12-18,C009,Nyali,Staples,4,247.63,False,M-Pesa,990.52
+TX095,2025-12-20,C029,Nyali,Dairy & Eggs,3,412.33,False,M-Pesa,1236.99
+TX071,2025-12-24,C009,Thika,Staples,2,237.02,False,M-Pesa,474.04
+TX063,2025-12-30,C028,Nairobi,Staples,2,267.3,False,Card,534.6
